@@ -16,7 +16,7 @@ This repository contains my Java solutions to Data Structures and Algorithms pro
 - Dynamic Programming  
 
 ## Progress
-✅ 20+ problems solved and counting!
+✅ 30+ problems solved and counting!
 
 ## About Me
 I am a 2nd-year BCA student passionate about problem-solving and coding.
