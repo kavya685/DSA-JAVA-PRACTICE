@@ -4,7 +4,6 @@ This repository contains my Java solutions to Data Structures and Algorithms pro
 
 - LeetCode  
 - GeeksforGeeks  
-- CodeStudio  
 
 ## Topics Covered
 - Arrays  
